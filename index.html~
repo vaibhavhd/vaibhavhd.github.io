@@ -52,7 +52,7 @@
                         <a href="#about">About</a>
                     </li>
                     <li>
-                        <a href="#services">Professional Experience</a>
+                        <a href="#experience">Professional Experience</a>
                     </li>
                     <li>
                         <a href="docs/RESUME.pdf">Curriculum Vitae</a>
@@ -102,7 +102,7 @@
 
     <!-- Page Content -->
 
-	<a  name="services"></a>
+	
     <div class="content-section-a">
 
         <div class="container">
@@ -110,8 +110,15 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">About me:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <h2 class="section-heading">About me:</h2>
+                    <p class="lead">I have over 4 years of experience in retail industry. I continuously thrive to learn and grow in all the professional aspects.
+                    <br>
+                    I have skilled experience in training and development of staff and teams across the stores.
+                    At this juncture of my career, I have had managerial experience in sales, inventory and store management.
+                    I have enjoyed the vast experience in the entire spectrum exposed to me. This includes and is not limited to Retail, Sales, Team building, Visual Merchandising. 
+                    In my experience, I have continuously realized and made my staff learn to always emphasize upon customer satisfaction
+                     and how to find a way around issues insuring a win-win situation.
+                    </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/ipad.png" alt="">
@@ -123,7 +130,8 @@
 
     </div>
     <!-- /.content-section-a -->
-
+	
+	 <a  name="experience"></a>
     <div class="content-section-b">
 
         <div class="container">
@@ -134,20 +142,20 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Assistant Store Manager - Puma, Bangalore<br> May 2013 - May 2016</h2>
                     <p class="lead">Started as a Management Trainee at<a target="_blank" href="https://in.puma.com">PUMA India</a>.
-							
-							Drive the highest levels of customer service
-							Seek and exploit opportunities to promote sales
-							Maintain highest standards of the stores visual impact
-							Ensure store achieves defined stock loss targets
-							Deliver highest standards of instore training and people management
-							Ensure store is fully complaint with all administration procedures in line with the company policies.
-							Increase customer data base
-							Implementing the store audit check list 100% and the mystery shopper program ( high level of customer service)
-							Implementing stock take procedures and achieving good results
-							Only Management Trainee in South Region to clear PDP (People Development Program) before getting promotion in PUMA
-							Received Mystery shopper award for the best customer service
-							Won Target vs Achievement competition which was organized on PAN India level for Q3 (Goa trip)
-							Did tie ups with different gyms to maximize retail sale
+							This embarked the beginning of my career in the retail industry.I brought forth the highest levels of customer service.
+							With a good eye for an opportune moment, I along with the team promoted sales even at times when the market was deemed dull.
+							Achieving this along with maintaining highest standards of the store and its visual impact came as a huge learning curve.
+							<br>							
+							It was my responsibility to ensure that store achieves defined stock loss targets. I emphasized to my staff to ensure 
+							that store is fully complaint with the administration procedures without crossing the line with the company policies.
+							Furnished 100% audit check list for the store. Implemented stock take procedures and achieved good results. Did tie ups
+							with different gyms to maximize retail sale.
+							<br>
+							This eventually led to increasing numbers of promised and satisfied customers. I was further awarded a Mystery Shopper award 
+							for the highest levels of customer service. I also happened to be the only Management Trainee in south zone to clear PDP (People Development Program)
+							and eventually getting a direct promotion.							
+							The efforts also paid off when our store won the "Target vs Achievement" competition organized on PAN India level for Q3. Our team
+							won a sponsored trip to Goa :)
                     </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -170,8 +178,12 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Assistant Store Manager - Vero Moda, Bangalore <br> Jun 2016 - Present</h2>
-                    <p class="lead">Managing stock in all respects and space
+                    <p class="lead">
+							Managing and handling over & 7250 sq ft with over 15 staff
+							Maximizing sales and exceedingstorebudgets                    
+                    Managing stock in all respects and space
                     Ensure store is fully complaint with all administration procedures in line with the company policies.
+                    Deliver highest standards of instore training and people management
 							Increase customer data base
 							Ensured to achieve the sale targets irrespective of staff crunch.
 							Emphasized the imporatance of motivation to staff.
@@ -197,7 +209,7 @@
 
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Connect to me:</h2>
+                    <h2>Connect with me:</h2>
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
@@ -205,7 +217,7 @@
                             <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                         </li>
                         <li>
-                            <a href="https://www.linkedin.com/in/smita-mishra-48897658/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                            <a href="https://www.linkedin.com/in/smita-mishra-48897658/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">LinkedIn</span></a>
                         </li>
                     </ul>
                 </div>
@@ -239,7 +251,7 @@
                             <a href="#contact">Contact</a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Your Company 2014. All Rights Reserved</p>
+                    <p class="copyright text-muted small">Copyright &copy; Smita Mishra 2016. All Rights Reserved</p>
                 </div>
             </div>
         </div>
