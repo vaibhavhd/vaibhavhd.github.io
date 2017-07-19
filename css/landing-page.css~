@@ -43,7 +43,7 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
-    margin-right: 50px;
+    margin-right: 150px;
 }
 
 .intro-message > h1 {
