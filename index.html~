@@ -83,7 +83,7 @@
                                 <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">MAIL</span></a>
                             </li>
                             <li>
                                 <a href="https://www.linkedin.com/in/smita-mishra-48897658/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
@@ -116,7 +116,7 @@
                     At this juncture of my career, I have had managerial experience in sales, inventory and store management.
                     It has been a joy to work in the spectrum of opportunities exposed to me. This includes and is not limited to retail, sales, audit and visual merchandising. 
                     In my experience, I have continuously pushed myself and trained the staff to always emphasize upon customer satisfaction. Also, 
-                    doing this by finding a way around issues to insure a win-win situation has proved to be an awarding trait that I posses.
+                    doing this by finding a way around issues to insure a win-win situation has proved to be an awarding trait that I have nurtured.
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -142,7 +142,7 @@
 
     </div>
     <!-- /.content-section-a -->
-	
+	<hr class="intro-divider">
 	 <a  name="experience"></a>
     <div class="content-section-b">
 
@@ -180,7 +180,7 @@
 
     </div>
     <!-- /.content-section-b -->
-
+	<hr class="intro-divider">
     <div class="content-section-a">
 
         <div class="container">
@@ -225,6 +225,9 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
+                    		<li>
+                    			 <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">MAIL</span></a>
+                    		</li>
                         <li>
                             <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                         </li>
