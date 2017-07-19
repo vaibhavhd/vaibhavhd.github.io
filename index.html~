@@ -110,13 +110,13 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">About me:</h2>
-                    <p class="lead">With over four years of experience in retail industry, I continuously thrive to learn and grow in all the professional aspects of a retail industry.
+                    <p class="lead">With over four years of experience, I continuously thrive to learn and grow in all the professional aspects of a retail industry.
                     <br>
                     I have skilled experience in training and development of staff and teams across the stores.
                     At this juncture of my career, I have had managerial experience in sales, inventory and store management.
-                    I have enjoyed the vast experience in the entire spectrum exposed to me. This includes and is not limited to Retail, Sales, Team building, Visual Merchandising. 
-                    In my experience, I have continuously realized and made my staff learn to always emphasize upon customer satisfaction
-                     and how to find a way around issues insuring a win-win situation.
+                    It has been a joy to get to work in the spectrum exposed to me. This includes and is not limited to retail, sales, audit and visual merchandising. 
+                    In my experience, I have continuously pushed myself and trained the staff to always emphasize upon customer satisfaction. Also, 
+                    Doing this by finding a way around issues to insure a win-win situation has proved to be an awarding trait that I posses.
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -125,8 +125,8 @@
 					        <span id="slider-image-2"></span>
 					        <span id="slider-image-3"></span>
 					        <div class="image-holder">
-					            <img class="img-responsive" src="img/group4.jpg" class="slider-image" />
 					            <img class="img-responsive" src="img/group1.jpg" class="slider-image" />
+					            <img class="img-responsive" src="img/group4.jpg" class="slider-image" />
 					            <img class="img-responsive" src="img/group3.jpg" class="slider-image" />
 					        </div>
 					        <div class="button-holder">
