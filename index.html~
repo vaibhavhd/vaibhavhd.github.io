@@ -80,7 +80,7 @@
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
-                                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
                                 <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">MAIL</span></a>
@@ -101,24 +101,37 @@
 
     <!-- Page Content -->
 
-	 <a  name="about"></a>
-    <div class="content-section-a">
-
+    <!-- About Section -->
+    <a  name="about"></a>
+    <section class="success" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">About me:</h2>
-                    <p class="lead">With over four years of experience, I continuously thrive to learn and grow in all the professional aspects of a retail industry.
-                    <br>
-                    I have skilled experience in training and development of staff and teams across the stores.
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+                    <p align="center">With over four years of experience, I continuously thrive to learn and grow in all the professional aspects of a retail industry.</p>
+                    <p align="center">I have skilled experience in training and development of staff and teams across the stores.
                     At this juncture of my career, I have had managerial experience in sales, inventory and store management.
                     It has been a joy to work in the spectrum of opportunities exposed to me. This includes and is not limited to retail, sales, audit and visual merchandising. 
                     In my experience, I have continuously pushed myself and trained the staff to always emphasize upon customer satisfaction. Also, 
                     doing this by finding a way around issues to insure a win-win situation has proved to be an awarding trait that I have nurtured.
                     </p>
+
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="docs/RESUME.pdf" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download Resume
+                    </a>
                 </div>
+        </div>
+    </section>
+
+
+	 
+    <div class="content-section-a">
+
+        <div class="container">
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
 							<div class="slider-holder">
 					        <span id="slider-image-1"></span>
@@ -135,8 +148,7 @@
 					            <a href="#slider-image-3" class="slider-change"></a>
 					        </div>
     						</div>
-                </div>
-            </div>
+           </div>
         </div>
         <!-- /.container -->
 
@@ -144,75 +156,51 @@
     <!-- /.content-section-a -->
 	<hr class="intro-divider">
 	 <a  name="experience"></a>
-    <div class="content-section-b">
-
+	 
+    <section id="portfolio">
         <div class="container">
-
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Assistant Store Manager - Puma, Bangalore<br> May 2013 - May 2016</h2>
-                    <p class="lead">Started as a Management Trainee at<a target="_blank" href="https://in.puma.com">PUMA India</a>.
-							This embarked the beginning of my career in the retail industry.I brought forth the highest levels of customer service.
-							With a good eye for an opportune moment, I along with the team promoted sales even at times when the market was deemed dull.
-							Achieving this along with maintaining highest standards of the store and its visual impact came as a huge learning curve.
-							<br>							
-							It was my responsibility to ensure that store achieves defined stock loss targets. I emphasized to my staff to ensure 
-							that store is fully complaint with the administration procedures without crossing the line with the company policies.
-							Furnished 100% audit check list for the store. Implemented stock take procedures and achieved good results. Did tie ups
-							with different gyms to maximize retail sale.
-							<br>
-							This eventually led to increasing numbers of promised and satisfied customers. I was further awarded a Mystery Shopper award 
-							for the highest levels of customer service. I also happened to be the only Management Trainee in south zone to clear PDP (People Development Program)
-							and eventually getting a direct promotion.							
-							The efforts also paid off when our store won the "Target vs Achievement" competition organized on PAN India level for Q3. Our team
-							won a sponsored trip to Goa :)
-                    </p>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/PUMA.jpg" alt="">
+                <div class="col-lg-12 text-center">
+                    <h2>Portfolio</h2>
+                    <hr class="star-primary">
                 </div>
             </div>
-
+            <div class="row text-center">
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/VeroModa.jpg" class="img-responsive" alt="Cabin">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/PUMA.jpg" class="img-responsive" alt="Slice of cake">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/TAJ.png" class="img-responsive" alt="Slice of cake">
+                    </a>
+                </div>
+            </div>
         </div>
-        <!-- /.container -->
-
-    </div>
+    </section>
     <!-- /.content-section-b -->
 	<hr class="intro-divider">
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Assistant Store Manager - Vero Moda, Bangalore <br> Jun 2016 - Present</h2>
-                    <p class="lead">
-							Managing and handling over & 7250 sq ft with over 15 staff
-							Maximizing sales and exceeding store budgets                    
-                     Managing stock in all respects and space
-                     Ensure store is fully complaint with all administration procedures in line with the company policies.
-                     Deliver highest standards of instore training and people management
-							Increase customer data base
-							Ensured to achieve the sale targets irrespective of staff crunch.
-							Emphasized to motivate the staff.
-							Undertook several training sessions - scheduled and unscheduled.
-							Developed an atmosphere of fun for the staff to work with a healthy mindset.   
-                    </p>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/VeroModa.jpg" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-a -->
 
 	<a  name="contact"></a>
     <div class="banner">
@@ -271,7 +259,145 @@
             </div>
         </div>
     </footer>
-
+	    <!-- Portfolio Modals -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Vero Moda</h2>
+                            <hr class="star-primary">
+                            <img src="img/VeroModa.jpg" class="img-responsive img-centered" alt="">
+                            <p class="lead">
+										Managed and handled over 7250 sq ft of store space with staff strength of around 15 across the year.
+										Maximized sales and consistently exceeding store budgets                    
+                     			Managed stock in all respects and space.
+                     			Ensure store is fully complaint with all administrative procedures. Also, keeping the company policies unharmed.
+                     			<br>Delivered highest standards of in-store training and people management
+										which increased the customer data base.
+										Ensured to achieve the sale targets irrespective of staff crunch.
+										Emphasized to motivate the staff.
+										Undertook several training sessions - scheduled and unscheduled.
+										Developed an atmosphere of fun for the staff to work with a healthy mindset.   
+                    				</p>
+                            <ul class="list-inline item-details">
+                                <li>Client:
+                                    <strong><a href="http://www.veromoda.in/">VERO MODA, Bangalore, India</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong>Jun 2016
+                                    </strong>
+                                </li>
+                                <li>Service:
+                                    <strong>Store Management
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Puma</h2>
+                            <hr class="star-primary">
+                            <img src="img/PUMA.jpg" class="img-responsive img-centered" alt="">
+                            <p class="lead">Started as a Management Trainee at <a target="_blank" href="https://in.puma.com">PUMA India</a>.
+							This embarked the beginning of my career in the retail industry. I brought forth the highest levels of customer service.
+							With a good eye for an opportune moment, I along with the team promoted sales even at times when the market was deemed dull.
+							Achieving this along with maintaining highest standards of the store and its visual impact came as a huge learning curve.
+							<br>							
+							It was my responsibility to ensure that store achieves defined stock loss targets. I emphasized to my staff to ensure 
+							that store is fully complaint with the administration procedures without crossing the line with the company policies.
+							Furnished 100% audit check list for the store. Implemented stock take procedures and achieved good results. Did tie ups
+							with different gyms to maximize retail sale.
+							<br>
+							This eventually led to increasing numbers of promised and satisfied customers. I was further awarded a Mystery Shopper award 
+							for the highest levels of customer service. I also happened to be the only Management Trainee in south zone to clear PDP (People Development Program)
+							and eventually getting a direct promotion.							
+							The efforts also paid off when our store won the "Target vs Achievement" competition organized on PAN India level for Q3. Our team
+							won a sponsored trip to Goa :) </p>
+                            <ul class="list-inline item-details">
+                                <li>Client:
+                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong>May 2013 - May 2016
+                                    </strong>
+                                </li>
+                                <li>Service:
+                                    <strong>Store Management
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Taj West</h2>
+                            <hr class="star-primary">
+                            <img src="img/TAJ.png" class="img-responsive img-centered" alt="">
+                            <p>Successfully completed a six month internship at Taj West End, Bangalore</p>
+                            <ul class="list-inline item-details">
+                                <li>Client:
+                                    <strong>Taj West End, Bangalore, India
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com">Nov 2012 - May 2013</a>
+                                    </strong>
+                                </li>
+                                <li>Service:
+                                    <strong>Taj West End
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+	
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
